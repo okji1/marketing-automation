@@ -67,8 +67,7 @@ desktop.ini
 *.tmp
 *.bak
 
-# Exclude duplicate/integrated folders
-ALL/
+# Exclude duplicate/integrated folders (except ALL/)
 공유용_ALL/
 그누보드용_통합/
 네이버용_통합/
@@ -77,3 +76,6 @@ naver_API 사용/
 
 # Exclude sample images
 pic/
+
+# Exclude google library files (installed via pip)
+ALL/google/
