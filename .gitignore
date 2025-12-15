@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# API Keys and Sensitive Data
+*.ini
+config.ini
+api_key.ini
+naver.ini
+tstory.ini
+
+# Log files
+*.log
+error_log.txt
+last_element.txt
+log.txt
+
+# Downloaded/Generated Files
+*.pdf
+pdf/
+*.xlsx
+*.xls
+
+# Profile Data
+naver_profile/
+tstory_profile/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Spec files
+*.spec
+
+# Temporary files
+*.tmp
+*.bak
+
+# Exclude duplicate/integrated folders
+ALL/
+공유용_ALL/
+그누보드용_통합/
+네이버용_통합/
+티스토리용_통합/
+naver_API 사용/
+
+# Exclude sample images
+pic/
