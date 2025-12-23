@@ -30,7 +30,7 @@ graph LR
 
 ---
 
-## 🔥 핵심 트러블슈팅 및 인사이트
+## 🔥 트러블슈팅 및 인사이트
 
 ### 1. 기술적 정밀도 확보: 음성-영상 싱크 불일치 해결
 
@@ -48,7 +48,7 @@ graph LR
 
 ## 🛠 기술 스택
 
-**기술 스택:** Python 3.x, Gemini 1.5 Flash, Selenium 4.34.2, Moviepy, FFmpeg, Tkinter, PyInstaller 6.14.2
+**기술 스택:** Python 3.11, Gemini 1.5 Flash, Selenium 4.34.2, Moviepy, FFmpeg, Tkinter, PyInstaller 6.14.2
 
 ---
 
